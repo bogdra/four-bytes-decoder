@@ -1,0 +1,25 @@
+{
+    "name": "bogdra/four-byte-decoder",
+    "description": "Library used to decode the 4 bytes hex into the function signature using data from 4bytes.directory",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bogdra\\FourByte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bogdan Dragoi",
+            "email": "bogdan@dragoi.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.5"
+    }
+}
