@@ -1,1 +1,0 @@
-createCampaignAndChannels(address,uint256,string,address[],address[],address[],uint256[],address,string,bytes,uint32[])

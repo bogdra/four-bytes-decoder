@@ -1,1 +1,0 @@
-defineType(string,uint8,uint8,uint32,uint8,uint32,uint8,uint32[5],uint32[5],uint32[5])

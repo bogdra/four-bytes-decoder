@@ -1,1 +1,0 @@
-record(string,string,string,bool,string,string,string)

@@ -1,1 +1,0 @@
-setVotingSignaturesForAddress(address,bool,bytes4[],bool[])

@@ -1,1 +1,0 @@
-setApplication(uint64,(uint64,bytes32,string,string,string[],address[],bool))
